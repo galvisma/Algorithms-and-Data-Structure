@@ -1,4 +1,4 @@
-package learningjava;
+package targetnumber;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,4 +9,5 @@ public class Main {
         int[] index = numbers.findTarget(array,target);
         System.out.println("Los indices son: " + index[0] + " , " + index[1]);
     }
+
 }

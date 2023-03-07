@@ -1,4 +1,4 @@
-package learningjava;
+package targetnumber;
 
 public class Solution {
 
